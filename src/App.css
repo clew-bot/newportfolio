@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-color: #c6cec7;
+}
+.table-bordered td,
+.table-bordered th {
+  border: 0px #c6cec7 !important;
 }
 
 .App-logo {
