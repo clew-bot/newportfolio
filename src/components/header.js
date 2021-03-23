@@ -2,7 +2,6 @@ import React from "react";
 import Hidebtn from "./hidebutton.js";
 import BigTable from "./table.js";
 
-function handleFormSubmit() {}
 function Navbarr() {
   return (
     <div className="container">
