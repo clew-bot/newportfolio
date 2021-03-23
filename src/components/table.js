@@ -19,9 +19,8 @@ function BigTable() {
           <td>This website</td>
           <td>Otto</td>
           <td>Very Easy</td>
-          <a href="#ass1">
-            <td>Could have been worse</td>
-          </a>
+
+          <td>Could have been worse</td>
         </tr>
         <tr>
           <td>2</td>

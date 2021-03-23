@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Hidebtn from "./hidebutton.js";
 import BigTable from "./table.js";
 
@@ -11,6 +11,7 @@ function Navbarr() {
           className="navbar-brand"
           href="https://github.com/clew-bot"
           target="_blank"
+          rel="noreferrer"
         >
           <svg
             viewBox="0 0 15 15"
@@ -59,6 +60,7 @@ function Navbarr() {
                 className="nav-link"
                 href="https://www.linkedin.com/in/chad-lew-7586711a0/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <svg
                   viewBox="0 0 15 15"
