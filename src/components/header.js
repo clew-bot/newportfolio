@@ -150,11 +150,11 @@ function Navbarr() {
           </p>
         </div>
         <div className="card-body">
-          <p className="card-text">
+          <div className="card-text">
             <p>Assignment #2 : Wonderful Pagination</p>
             <h5>March 24, 2021 - March 26, 2021</h5>
             <h6>Details:</h6>
-          </p>
+          </div>
         </div>
       </div>
     </div>
