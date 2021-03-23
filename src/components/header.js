@@ -101,8 +101,7 @@ function Navbarr() {
         style={{ maxWidth: "100%" }}
       />
       <div className="jumbotron">
-        <h1>Hi, I'm Chad! Welcome to my page.</h1>
-        <h2>50 Projects in 100 Days Challenge</h2>
+        <h1>50 Projects in 100 Days Challenge</h1>
         <br></br>
         <p>
           We're going to be using Bootstrap for this project. This will be the
@@ -147,7 +146,7 @@ function Navbarr() {
           <div className="card-body" id="ass1">
             Assignment #1 : This website
           </div>
-          <h5>March 22, 2021- March 23, 2021</h5>
+          <h5>March 22, 2021 - March 23, 2021</h5>
           <h6>Details:</h6>
           <p>
             Today I will be making this website and try to document little
@@ -158,6 +157,18 @@ function Navbarr() {
             have had any problems, which is nice, we're off to a good start.
             Tomorrow I will be pushing this up to a hosting site and it will be
             live.
+          </p>
+          <p>
+            Day 2: The site is pushed on vercel and making a couple of styling
+            changes going forward. Site will be SEO optimized as best as
+            possible.
+          </p>
+        </div>
+        <div className="card-body">
+          <p className="card-text">
+            <p>Assignment #2 : Wonderful Pagination</p>
+            <h5>March 24, 2021 - March 26, 2021</h5>
+            <h6>Details:</h6>
           </p>
         </div>
       </div>

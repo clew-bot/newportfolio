@@ -7,7 +7,7 @@ function BigTable() {
       <thead>
         <tr>
           <th>Project #</th>
-          <th>Accomplished</th>
+          <th>Goals</th>
           <th>Repo</th>
           <th>Difficulty</th>
           <th>Notes</th>
@@ -17,20 +17,26 @@ function BigTable() {
         <tr>
           <td>1</td>
           <td>This website</td>
-          <td>Otto</td>
+          <td>
+            <a href="https://newportfolio-clew-bot.vercel.app/">
+              Vercel Deployed
+            </a>
+          </td>
           <td>Very Easy</td>
 
-          <td>Could have been worse</td>
+          <td>
+            <a href="#ass1">Could have been worse</a>
+          </td>
         </tr>
         <tr>
           <td>2</td>
-          <td>Jacob</td>
-          <td>Thornton</td>
+          <td>Pagination</td>
+          <td></td>
           <td>@fat</td>
         </tr>
         <tr>
           <td>3</td>
-          <td colSpan="2">Larry the Bird</td>
+          <td colSpan="2"></td>
           <td>@twitter</td>
         </tr>
       </tbody>
