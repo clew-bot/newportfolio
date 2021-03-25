@@ -18,9 +18,7 @@ function BigTable() {
           <td>1</td>
           <td>This website</td>
           <td>
-            <a href="https://newportfolio-clew-bot.vercel.app/">
-              Vercel Deployed
-            </a>
+            <a href="https://fifty-hundred.vercel.app/">Vercel Deployed</a>
           </td>
           <td>Very Easy</td>
 
