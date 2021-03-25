@@ -8,7 +8,7 @@ function BigTable() {
         <tr>
           <th>Project #</th>
           <th>Goals</th>
-          <th>Repo</th>
+          <th>Repo/Link</th>
           <th>Difficulty</th>
           <th>Notes</th>
         </tr>
@@ -31,8 +31,14 @@ function BigTable() {
         <tr>
           <td>2</td>
           <td>Pagination</td>
-          <td></td>
-          <td>@fat</td>
+          <td>
+            <a href="https://pagination-sand.vercel.app/!#">Paginate</a>/
+            <a href="https://github.com/clew-bot/pagination">Repo</a>
+          </td>
+          <td>Easy</td>
+          <td>
+            <a href="#slice">All about the slice</a>
+          </td>
         </tr>
         <tr>
           <td>3</td>

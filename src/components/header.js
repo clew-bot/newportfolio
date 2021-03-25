@@ -153,6 +153,24 @@ function Navbarr() {
             <p>Assignment #2 : Wonderful Pagination</p>
             <h5>March 24, 2021 - March 26, 2021</h5>
             <h6>Details:</h6>
+            <p id="slice">
+              One of the key things to making a responsive website functional
+              and easy to navigate is the ability to paginate certain items
+              displayed. Today I delved in learning pagination with a basic API
+              call to jsonplaceholder sample posts. The key to making pagination
+              is the slice method, it looks VERY intimidating at first but all
+              it is is
+              <code> data.slice(indexOfFirstData, indexOfLastData)</code>. What
+              this essentially means is to slice out certain data so we only
+              show that amount. Once I got the hang of it down I swapped out
+              that boring API for something more....fun, like Pokemon! We're now
+              using <a href="https://pokeapi.co/">this API</a> to make a
+              'Pokedex' like app. If you think I did this by myself you'd be
+              lying to yourself. Google and youtube is my best-friend, I managed
+              to find a couple good videos, one specially from Travery Media. On
+              that note I have already thought of plans I want to accomplish
+              tomorrow.
+            </p>
           </div>
         </div>
       </div>
