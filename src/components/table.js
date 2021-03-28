@@ -40,8 +40,26 @@ function BigTable() {
         </tr>
         <tr>
           <td>3</td>
-          <td colSpan="2"></td>
-          <td>@twitter</td>
+          <td>Nesting API requests</td>
+          <td>
+            <a href="https://github.com/clew-bot/super-giggle">Repo</a>
+          </td>
+          <td>Medium</td>
+          <td>
+            <a href="#ass3">Bad at Github</a>
+          </td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Cont...</td>
+          <td>
+            <a href="https://fifty-hundred.vercel.app/">Vercel Deployed</a>
+          </td>
+          <td>Very Easy</td>
+
+          <td>
+            <a href="#ass1">Could have been worse</a>
+          </td>
         </tr>
       </tbody>
     </Table>

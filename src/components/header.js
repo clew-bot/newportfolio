@@ -171,7 +171,44 @@ function Navbarr() {
               that note I have already thought of plans I want to accomplish
               tomorrow.
             </p>
+            <br></br>
+            <p>
+              Day 2: The poke's link to an json page displaying all facts. This
+              project wasn't too bad in the beginning but once the first call is
+              made, at least 1 other call is going to be made to receive data.
+              Tomorrow will be tackling nesting API calls with Axios in React.
+            </p>
           </div>
+        </div>
+        <div className="jumbotron">
+          <div className="card-body" id="ass1">
+            Assignment #3 : API Literature
+          </div>
+          <h5>March 27, 2021 - March 29, 2021</h5>
+          <h6>Details:</h6>
+          <p id="ass3">
+            Well that took a lot longer than it should have. Good news I figured
+            out how to do it within a couple hours. When clicked on Pokemon,
+            another API will be sent out given the Pokemon name as the
+            parameter. Bad news something went terribly wrong with my github and
+            my code doesn't work anymore. Which is fine because it sucked anyway
+            and I will start fresh on that. My pagination Repo is kinda fucked
+            up in terms of merging and pushing. I should have just started a
+            brand new one, but I got cocky and lazy. Once I figure out how to
+            solve that I will, but for now, it's not a big deal since we are
+            just startig over from scratch. As for the actual code it wasn't too
+            bad, I made a regular function that gets called in an onClick and
+            logs out the specific mon. Tomorrow I should quickly make a template
+            and continue on nested API calls to grab more specific information
+            such as berry types, movesets, natures.
+          </p>
+          <p>
+            Day 2: Started over a new repo and went successfully! Spent the
+            whole day stretching out this API to get more poke details. Multiple
+            small accomplishments led to what I was trying to make. Pagination
+            working with the API along with the details. The API is now I think
+            I might continue this project for another 2 days to run more API's.
+          </p>
         </div>
       </div>
     </div>
